@@ -3,7 +3,7 @@ Contains papers, data, software code, etc... about the Epistasis topic
 
 Papers naming convention; the naming convention of papers is as follows
 
-Y - TY - TITLE - [INIT] - (R)
+        Y - TY - TITLE - [INIT] - (R)
 
 where
 
